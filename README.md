@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psp316
-- 👀 I’m interested in ... python devops and also web development
+- 👀 I’m interested in ... coding, devops and also web development
 - 💞️ I’m looking to collaborate on ...Devops
 - 📫 How to reach me ...
 
